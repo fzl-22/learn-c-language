@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/union.dir/union.c.o -o union 

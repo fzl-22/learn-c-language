@@ -1,0 +1,3 @@
+/home/ahmadfaisal/Documents/Learn/Learn C/struct-union-project/build/CMakeFiles/union.dir
+/home/ahmadfaisal/Documents/Learn/Learn C/struct-union-project/build/CMakeFiles/edit_cache.dir
+/home/ahmadfaisal/Documents/Learn/Learn C/struct-union-project/build/CMakeFiles/rebuild_cache.dir
