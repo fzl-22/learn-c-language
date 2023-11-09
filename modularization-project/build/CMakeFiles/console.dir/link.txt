@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/console.dir/console.c.o CMakeFiles/console.dir/vector.c.o -o console  -lm 
