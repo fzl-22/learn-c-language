@@ -1,0 +1,3 @@
+/home/ahmadfaisal/Documents/Learn/Learn C/array-pointer-project/build/CMakeFiles/array-pointer.dir
+/home/ahmadfaisal/Documents/Learn/Learn C/array-pointer-project/build/CMakeFiles/edit_cache.dir
+/home/ahmadfaisal/Documents/Learn/Learn C/array-pointer-project/build/CMakeFiles/rebuild_cache.dir

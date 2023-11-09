@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/array-pointer.dir/array-pointer.c.o -o array-pointer 
