@@ -1,3 +1,0 @@
-/home/ahmadfaisal/Documents/Learn/Learn C/modularization-project/build/CMakeFiles/console.dir
-/home/ahmadfaisal/Documents/Learn/Learn C/modularization-project/build/CMakeFiles/edit_cache.dir
-/home/ahmadfaisal/Documents/Learn/Learn C/modularization-project/build/CMakeFiles/rebuild_cache.dir
