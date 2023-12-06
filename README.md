@@ -50,4 +50,3 @@ Then you can find the binary executable in the `build` directory, so that you ca
 
 Then, the output will be printed on user's console/terminal.
 
-
